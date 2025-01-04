@@ -46,7 +46,7 @@ optree==0.13.1
 packaging==24.2
 pandas==2.2.3
 pandas-profiling==3.2.0
-phik==0.12.4
+
 pillow==11.1.0
 plotly==5.24.1
 protobuf==5.29.2
@@ -64,7 +64,7 @@ referencing==0.35.1
 requests==2.32.3
 rich==13.9.4
 rpds-py==0.22.3
-scikit-learn==1.6.0
+scikit-learn==1.5.0
 scipy==1.15.0
 seaborn==0.13.2
 six==1.17.0
